@@ -1,7 +1,7 @@
 /**
- * function keyword
+ * Arrow Function
  * Function Name App
  */
-export default function App() {
-  return "Hello World";
-}
+const App = () => "Hello Worldddddd";
+
+export default App;
