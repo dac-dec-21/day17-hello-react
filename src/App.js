@@ -5,7 +5,7 @@ export default function App() {
 
   return (
     <div>
-      <div>{counter}</div>
+      <div> {counter} </div>
       <div> {username} </div>
       <div> {email} </div>
     </div>
