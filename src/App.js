@@ -1,9 +1,7 @@
-/**
- * Arrow Function
- * Function Name App
- */
+// JSX
+// YOU CAN WRITE HTML using JS.
 const App = () => {
-  return "I am the Arrow Function!";
+  return <h1>Hello World</h1>;
 };
 
 export default App;
