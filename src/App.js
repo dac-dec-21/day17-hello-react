@@ -2,8 +2,8 @@
  * Arrow Function
  * Function Name App
  */
-const HelloWorld = () => {
+const App = () => {
   return "I am the Arrow Function!";
 };
 
-export default HelloWorld;
+export default App;
